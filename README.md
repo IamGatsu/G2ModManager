@@ -66,6 +66,7 @@ Dateien wie dass Systempack, Ninja etc werden von den offiziellen Github Seiten 
 
 ## ⚖️ Rechtliches/Info
 
+(Coding mit KI Hilfe vorgenommen)<br>
 Mein Programm ist in keiner Art und Weise mit Piranha Bytes, Gothic 2 oder deren Entwickler/Publisher verknüpft.<br>
 Es werden keine Daten gesammelt und oder gespeichert.<br>
 Der Mod Manager enthält keine bösartige Software/Viren oder sonstige Arten von exploits, oder schädlicher Software.<br>
