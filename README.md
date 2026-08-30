@@ -25,7 +25,7 @@
 3. Rechtsklick auf G2ModManager.exe und Senden an Desktop zum erstellen einer Verknüpfung.
 4. Erneut Rechtsklick auf die Verknüpfung, und unter Kompatibilität , Als Administrator ausführen wählen, übernehmen und ok klicken.
 
-🖥️ **<u>Microsoft .Net Framework 10 Runtime benötigt zum starten</u>** [Download](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)<br> 🖥️
+🖥️ **<u>Microsoft .Net Framework 10 Runtime benötigt zum starten</u>** [Download](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)<br>
 <img width="412" height="570" alt="g2mm-admin" src="https://github.com/user-attachments/assets/f9367a8b-b971-42d3-bf5f-fbbb1c98fa9b" />
 
 
