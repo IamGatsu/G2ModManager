@@ -4,7 +4,7 @@
 
   **Mod Manager zum verwalten/installieren von Mods für Gothic 2 und Gothic 2: Die Nacht des Raben.**
 
-   [![VirusTotal](https://img.shields.io/badge/VirusTotal-Scan_Result-brightgreen?style=for-the-badge&logo=virustotal)](https://www.virustotal.com/gui/file/4ddd2712eea989d5f0ae130295a7e5177f710c59f87c9bb9d40299c0cedbedb7?nocache=1)
+   [![VirusTotal](https://img.shields.io/badge/VirusTotal-Scan_Result-brightgreen?style=for-the-badge&logo=virustotal)](https://www.virustotal.com/gui/file/5c5fc78fd3e4f1fc84d286375742b44e7d2f953f1b6dd4fc92ed7d8b358daac3/behavior)
 
   <br />
 
