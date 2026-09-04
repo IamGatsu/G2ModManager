@@ -8,7 +8,8 @@
 
   <br />
 
-  <img width="1600" height="980" alt="g2mmprofil" src="https://github.com/user-attachments/assets/cba271f5-1a5e-4a8f-89c2-025444711862" />
+ <img width="1752" height="1064" alt="g2mm" src="https://github.com/user-attachments/assets/e663e358-24c4-4b5b-88d9-a75a83afc500" />
+
 
 
 
